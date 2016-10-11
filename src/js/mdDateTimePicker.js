@@ -10,7 +10,7 @@
 * import necessary components
 */
 import moment from 'moment'
-import Draggabilly from 'Draggabilly'
+import Draggabilly from 'draggabilly'
 
 class mdDateTimePicker {
 	/**
